@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Impelentasi Boostrap.md",
+                "file": "Materi 3 Mapel/Materi CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Impelentasi Boostrap.md",
+                "file": "Materi 3 Mapel/Materi CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Impelentasi Boostrap.md",
+                "file": "Materi 3 Mapel/Materi CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Impelentasi Boostrap.md"
+                "file": "Materi 3 Mapel/Materi CSS.md"
               }
             }
           }
@@ -171,26 +171,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a04702271cfeb23",
+  "active": "550f79e885d75b9d",
   "lastOpenFiles": [
+    "Materi 3 Mapel/Aset/IMG8/IMG8_9.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_8.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_7.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_6.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_5.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_4.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_3.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_23.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_22.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_21.png",
+    "Materi 3 Mapel/Aset/IMG8/IMG8_20.png",
+    "Materi 3 Mapel/Aset/IMG8",
+    "2. Impelentasi Boostrap.md",
+    "Materi 3 Mapel/Materi CSS.md",
+    "Materi 3 Mapel/Untitled",
     "aset2",
     "Untitled.md",
-    "2. Impelentasi Boostrap.md",
     "aset.md",
-    "aset2/last.png",
     "Materi 3 Mapel/Materi PHP.md",
-    "Materi 3 Mapel/Aset/aset/8.png",
-    "Materi 3 Mapel/Aset/aset/9.png",
-    "Materi 3 Mapel/Aset/aset/7.png",
-    "Materi 3 Mapel/Aset/aset/6.png",
-    "Materi 3 Mapel/Aset/aset/5.png",
-    "Materi 3 Mapel/Aset/aset/43.png",
-    "Materi 3 Mapel/Aset/aset/42.png",
-    "Materi 3 Mapel/Aset/aset/41.png",
-    "Materi 3 Mapel/Aset/aset/40.png",
     "Materi 3 Mapel/Aset/aset",
     "Materi 3 Mapel/Materi HTML.md",
-    "Materi 3 Mapel/Materi CSS.md",
+    "Materi 3 Mapel/Materi BasDat.md",
     "3. Relasi Table.md",
     "1. Penggunaan GitHub.md",
     "aset3",
@@ -198,9 +202,6 @@
     "Materi 3 Mapel/Aset/IMG4",
     "Materi 3 Mapel/Aset/IMG7",
     "Materi 3 Mapel/Aset",
-    "Materi 3 Mapel/aset/IMG7",
-    "Materi 3 Mapel/aset",
-    "Materi 3 Mapel/New folder",
-    "Materi 3 Mapel"
+    "Materi 3 Mapel/aset/IMG7"
   ]
 }
