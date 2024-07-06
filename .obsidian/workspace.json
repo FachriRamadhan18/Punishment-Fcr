@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "550f79e885d75b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Impelentasi Boostrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Relasi Table.md",
+                "file": "2. Impelentasi Boostrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Relasi Table.md",
+                "file": "2. Impelentasi Boostrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Relasi Table.md"
+                "file": "2. Impelentasi Boostrap.md"
               }
             }
           }
@@ -161,22 +173,34 @@
   },
   "active": "9a04702271cfeb23",
   "lastOpenFiles": [
-    "aset3/7a.png",
-    "aset3/6a.png",
-    "aset3/5a.png",
-    "aset3/4a.png",
-    "aset3/3a.png",
-    "aset3/2a.png",
-    "aset3/1a.png",
-    "aset3/8a.png",
-    "aset3",
-    "New folder",
+    "aset2",
     "Untitled.md",
+    "2. Impelentasi Boostrap.md",
+    "aset.md",
+    "aset2/last.png",
+    "Materi 3 Mapel/Materi PHP.md",
+    "Materi 3 Mapel/Aset/aset/8.png",
+    "Materi 3 Mapel/Aset/aset/9.png",
+    "Materi 3 Mapel/Aset/aset/7.png",
+    "Materi 3 Mapel/Aset/aset/6.png",
+    "Materi 3 Mapel/Aset/aset/5.png",
+    "Materi 3 Mapel/Aset/aset/43.png",
+    "Materi 3 Mapel/Aset/aset/42.png",
+    "Materi 3 Mapel/Aset/aset/41.png",
+    "Materi 3 Mapel/Aset/aset/40.png",
+    "Materi 3 Mapel/Aset/aset",
+    "Materi 3 Mapel/Materi HTML.md",
+    "Materi 3 Mapel/Materi CSS.md",
     "3. Relasi Table.md",
-    "2a.png",
-    "3a.png",
-    "4a.png",
     "1. Penggunaan GitHub.md",
-    "aset"
+    "aset3",
+    "aset1",
+    "Materi 3 Mapel/Aset/IMG4",
+    "Materi 3 Mapel/Aset/IMG7",
+    "Materi 3 Mapel/Aset",
+    "Materi 3 Mapel/aset/IMG7",
+    "Materi 3 Mapel/aset",
+    "Materi 3 Mapel/New folder",
+    "Materi 3 Mapel"
   ]
 }
